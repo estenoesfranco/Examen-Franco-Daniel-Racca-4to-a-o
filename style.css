@@ -1,0 +1,67 @@
+.navbar {
+
+    display: flex;
+
+    width: 900px;
+    height: 100px;
+    align-items: center;
+    justify-items: 100px;
+
+    background: hsla(237, 100%, 14%, 1);
+
+    background: linear-gradient(90deg, hsla(237, 100%, 14%, 1) 0%, hsla(193, 85%, 66%, 1) 85%);
+
+    background: -moz-linear-gradient(90deg, hsla(237, 100%, 14%, 1) 0%, hsla(193, 85%, 66%, 1) 85%);
+
+    background: -webkit-linear-gradient(90deg, hsla(237, 100%, 14%, 1) 0%, hsla(193, 85%, 66%, 1) 85%);
+
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#000345", endColorstr="#61D3F2", GradientType=1);
+
+}
+
+
+
+.container2 {
+    display: flex;
+    width: 450px;
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(15, 8, 61);
+    border-radius: 40px;
+    border-color: 40px;
+    box-shadow: 40px rgb(128, 0, 128), 20px rgb(235, 201, 4);
+    z-index: 1;
+}
+
+.container2 {
+    display: flex;
+    width: 460px;
+    height: 360px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(36, 2, 255);
+    border-radius: 40px;
+    border-color: 40px;
+    box-shadow: 40px rgb(128, 0, 128), 20px rgb(235, 201, 4);
+    z-index: 0;
+}
+
+
+
+.body {
+
+    width: 100px;
+    height: 1000px;
+
+    background: hsla(237, 76%, 12%, 1);
+
+    background: linear-gradient(90deg, hsla(237, 76%, 12%, 1) 0%, hsla(193, 53%, 46%, 1) 85%);
+
+    background: -moz-linear-gradient(90deg, hsla(237, 76%, 12%, 1) 0%, hsla(193, 53%, 46%, 1) 85%);
+
+    background: -webkit-linear-gradient(90deg, hsla(237, 76%, 12%, 1) 0%, hsla(193, 53%, 46%, 1) 85%);
+
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#070934", endColorstr="#379AB5", GradientType=1);
+
+}
